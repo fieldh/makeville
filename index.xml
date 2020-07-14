@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to Make: Woodworking</title>
+    <link>https://how-to-make.github.io/makeville/</link>
+    <description>Recent content on How to Make: Woodworking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://how-to-make.github.io/makeville/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Class 1</title>
+      <link>https://how-to-make.github.io/makeville/posts/class1/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://how-to-make.github.io/makeville/posts/class1/</guid>
+      <description>&lt;p&gt;~ introduction to the project ~&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://how-to-make.github.io/makeville/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://how-to-make.github.io/makeville/pages/about/</guid>
+      <description>Welcome! The purpose of this website is to provide documentation for makeville studio&amp;rsquo;s Furniture Making II: Floating Wall Cabinet class taught by Steven Bennett in July 2020.</description>
+    </item>
+    
+  </channel>
+</rss>

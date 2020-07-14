@@ -3,33 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://how-to-make.github.io/makeville/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://how-to-make.github.io/makeville/weeks/class2/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://how-to-make.github.io/makeville/weeks/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://how-to-make.github.io/makeville/weeks/class1/</loc>
+    <loc>https://how-to-make.github.io/makeville/categories/</loc>
     <lastmod>2020-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://how-to-make.github.io/makeville/about/</loc>
-    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
+    <loc>https://how-to-make.github.io/makeville/posts/class1/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://how-to-make.github.io/makeville/about/intro/</loc>
-    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
+    <loc>https://how-to-make.github.io/makeville/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://how-to-make.github.io/makeville/categories/one/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://how-to-make.github.io/makeville/posts/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://how-to-make.github.io/makeville/tags/tag_c/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://how-to-make.github.io/makeville/tags/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://how-to-make.github.io/makeville/pages/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://how-to-make.github.io/makeville/pages/</loc>
   </url>
   
 </urlset>
