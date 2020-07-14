@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://how-to-make.github.io/makeville/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://how-to-make.github.io/makeville/weeks/class2/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://how-to-make.github.io/makeville/weeks/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://how-to-make.github.io/makeville/weeks/class1/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://how-to-make.github.io/makeville/about/</loc>
+    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://how-to-make.github.io/makeville/about/intro/</loc>
+    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
